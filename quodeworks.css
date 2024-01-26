@@ -5,21 +5,27 @@
 
 .quodeworks-body {
     border-radius: 500%;
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
     background: #000F33;
     box-shadow: 4px -33.838px 46.997px 0px #8F5450;
 }
-
+.quodeworks-logo img{
+    width: 200px;
+}
 .quodeworks-content h1 {
     color: #FFF;
-    font-size: 42.872px;
+    font-size: 35px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
     letter-spacing: 8.574px;
 }
 
+.quodeworks-image{
+    position: absolute;
+    top:520px
+}
 .progress {
     border-radius: 6px;
     background: #1D2436;
@@ -29,8 +35,4 @@
 .progress-bar{
     border-radius: 6px;
     background: #86504F;
-}
-.quodeworks-image{
-    position: absolute;
-    top:550px
 }
