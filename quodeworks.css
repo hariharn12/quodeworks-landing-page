@@ -1,0 +1,36 @@
+.quodeworks-bg {
+    height: 100vh;
+    background-color: #000F33;
+}
+
+.quodeworks-body {
+    border-radius: 500%;
+    width: 600px;
+    height: 600px;
+    background: #000F33;
+    box-shadow: 4px -33.838px 46.997px 0px #8F5450;
+}
+
+.quodeworks-content h1 {
+    color: #FFF;
+    font-size: 42.872px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 8.574px;
+}
+
+.progress {
+    border-radius: 6px;
+    background: #1D2436;
+    height: 18px;
+
+}
+.progress-bar{
+    border-radius: 6px;
+    background: #86504F;
+}
+.quodeworks-image{
+    position: absolute;
+    top:550px
+}
